@@ -7,7 +7,7 @@ import Footer from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Shridhar Kala Kendra — Kathak Academy",
+  title: "Bijalsangnaach — Kathak Academy",
   description:
     "National award-winning Kathak performer and academy based in New Jersey, USA.",
 };
